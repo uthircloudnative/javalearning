@@ -1,6 +1,8 @@
 # javalearning
 Repository for different version java features and its samples
 
+```
+
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -68,3 +70,5 @@ public class Main {
         return percentages;
     }
 }
+
+```
